@@ -16,7 +16,7 @@ nav{
   padding: 20px 0;
   align-items: center;
   justify-content: space-between;
-  background: linear-gradient(40grad, #cc5b0a, #eef509);
+  background: linear-gradient(40grad, #1d5b50, #4e153e);
 }
 nav ul li{
     display: inline-block;
